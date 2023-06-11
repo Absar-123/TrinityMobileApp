@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1033805961654",
+    "project_id": "trinity-mobile-app-9d1fc",
+    "storage_bucket": "trinity-mobile-app-9d1fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1033805961654:android:c28aaa4d302084be84c917",
+        "android_client_info": {
+          "package_name": "com.absar.trinitymobileapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1033805961654-94m09osq5bh9vm0nnhoo9f2e66pm6fdb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBV-OlFjy-prBPhZcvO5HajFlvgQxfiL4k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1033805961654-94m09osq5bh9vm0nnhoo9f2e66pm6fdb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
